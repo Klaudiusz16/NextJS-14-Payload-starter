@@ -15,7 +15,7 @@ Welcome to my repository containing a starter template for a Next.js v14 applica
 
 1. **Clone the repository:** Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/Klaudiusz16/Next.js-v14-PayloadCMS-v2---Starter.git
+    git clone https://github.com/Klaudiusz16/NextJS-14-Payload-starter.git
     ```
 
 2. **Install dependencies:** Navigate to the project directory and install all required packages.
